@@ -1,4 +1,5 @@
 # 5300_final
 Physics 5300 final problem set
 
-# THE NOTEBOOKS HAVE TO BE RUN TO PROPERLY DISPLAY ALL OUTPUTS
+# The notebooks have to be run to properly display their outputs.
+The notebooks don't display properly on Github.
